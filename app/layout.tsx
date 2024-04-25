@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import { Inter, } from 'next/font/google';
+import { Inter} from 'next/font/google';
 import SideNav from '@/app/ui/dashboard/sidenav';
  
 export const inter = Inter({ subsets: ['latin'] });
